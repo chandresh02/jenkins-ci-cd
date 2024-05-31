@@ -15,7 +15,7 @@
 	<name>jenkins-ci-cd</name>
 	<description>Demonstrate Jenkins CI &amp; CD</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
